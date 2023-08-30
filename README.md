@@ -13,6 +13,7 @@ reset.css file code comes from - https://meyerweb.com/eric/tools/css/reset/ - he
 Goals for this project - 
 - practice using Javascript, React, HTML and CSS 
 - Use this project to learn more about basic styling, possibly including some plugin styling 
+- A Header 
 - A Login 
 - A Search bar 
 - A navigation with cart, products, etc. 
@@ -20,6 +21,8 @@ Goals for this project -
 - ability to search by title, genre
 - ability to add something to cart and delete something from cart 
 - ability to check out 
+- footer 
+(practice wireframing and include that in the video demonstration)
 
 General File Structure: 
 - index.html
