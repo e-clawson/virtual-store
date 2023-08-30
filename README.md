@@ -12,6 +12,13 @@ Goals for this project -
 - practice using Javascript, React, HTML and CSS 
 - Use this project to learn more about basic styling, possibly including some plugin styling 
 
+General File Structure: 
+- index.html
+- index.js
+- index.css 
+- README 
+- License 
+
 # Installation 
 
 
