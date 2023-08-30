@@ -1,0 +1,21 @@
+@import url();
+
+body {
+    background-color: rgb(35, 142, 200);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+div.section {
+    width: 60%;
+    left: 20%;
+    right: 20%;
+    background-color: lightslategray;
+    border: 2px solid darkslategray;
+}
+
+.hide {
+    display: none;
+}
