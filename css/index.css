@@ -1,4 +1,4 @@
-@import url();
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
 
 body {
     background-color: rgb(35, 142, 200);
@@ -8,12 +8,24 @@ body {
     flex-direction: column;
 }
 
-div.section {
+#title-section {
     width: 60%;
     left: 20%;
     right: 20%;
+    font-size: x-large;
+    font-family: 'Roboto', sans-serif;
     background-color: lightslategray;
     border: 2px solid darkslategray;
+}
+
+#header-img {
+    background-image: url("../images/CatCoverPhoto.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 75%;
+    left: 30%;
+    right: 30%;
+    height: 20cm;
 }
 
 .hide {
