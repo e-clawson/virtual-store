@@ -1,19 +1,20 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
 
 body {
-    background-color: rgb(35, 142, 200);
+    background-color: rgb(238, 109, 16);
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
 }
 
-#title-section {
+#title-h1, h1 {
     width: 60%;
     left: 20%;
     right: 20%;
-    font-size: x-large;
-    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Creepster', cursive;
     background-color: lightslategray;
     border: 2px solid darkslategray;
 }
