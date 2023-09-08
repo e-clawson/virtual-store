@@ -8,7 +8,7 @@ body {
     flex-direction: column;
 }
 
-#title-section, h1, h2 {
+#title-section, h1, h2, h3 {
     width: 72%;
     left: 20%;
     right: 20%;
@@ -43,6 +43,19 @@ body {
     right: 30%;
     height: 20cm;
     width: 25cm;
+}
+
+#searchbar-title, h3 {
+    text-align: center;
+}
+
+#pet-list-header {
+    width: 72%;
+    left: 20%;
+    right: 20%;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Creepster', cursive;
 }
 
 .hide {
