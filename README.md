@@ -44,3 +44,7 @@ General File Structure:
 
 
 # License 
+
+# Resources 
+
+Helpful document on resizing photos in CSS: https://www.digitalocean.com/community/tutorials/css-cropping-images-object-fit 

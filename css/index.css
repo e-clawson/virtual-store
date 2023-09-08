@@ -8,25 +8,41 @@ body {
     flex-direction: column;
 }
 
-#title-h1, h1 {
-    width: 60%;
+#title-section, h1, h2 {
+    width: 72%;
+    left: 20%;
+    right: 20%;
+    background-color: lightslategray;
+    border: 2px solid darkslategray;
+}
+
+#page-title, h1 {
+    width: 72%;
     left: 20%;
     right: 20%;
     text-align: center;
     font-size: xx-large;
     font-family: 'Creepster', cursive;
-    background-color: lightslategray;
-    border: 2px solid darkslategray;
+}
+
+#subtitle, h2 {
+    width: 72%;
+    left: 20%;
+    right: 20%;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Creepster', cursive;
 }
 
 #header-img {
     background-image: url("../images/CatCoverPhoto.png");
     background-size: cover;
     background-repeat: no-repeat;
-    width: 75%;
+    width: 60%;
     left: 30%;
     right: 30%;
     height: 20cm;
+    width: 25cm;
 }
 
 .hide {
